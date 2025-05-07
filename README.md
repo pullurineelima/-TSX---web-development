@@ -7,7 +7,7 @@ Build with html,css,and javascript
 
 ##live demo
 
-[view live](https://github.com/pullurineelima/TSX-Unstop-Web)
+[view live](https://github.com/pullurineelima/-TSX---web-development)
 
 ##features
 
@@ -28,4 +28,4 @@ to run the project locally:
 
 1.Clone the repository:
 ```bash
-git clone ( https://github.com/pullurineelima/TSX-Unstop-Web.git)
+git clone ( https://github.com/pullurineelima/-TSX---web-development.git)
