@@ -1,13 +1,13 @@
-# -TSX---web-development
+# TSX-unstop-Web 
 portfolio website
-# TSX-unstop-Web
+
 
 A personal portfolio landing page showcasing home,about,projects,and contact information.
 Build with html,css,and javascript
 
 ##live demo
 
-[view live](https://github.com/pullurineelima/-TSX---web-development)
+[view live](https://github.com/pullurineelima/TSX-unstop-Web)
 
 ##features
 
@@ -28,4 +28,4 @@ to run the project locally:
 
 1.Clone the repository:
 ```bash
-git clone ( https://github.com/pullurineelima/-TSX---web-development.git)
+git clone ( https://github.com/pullurineelima/TSX-unstop-Web.git)
